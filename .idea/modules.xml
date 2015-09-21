@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/mylibrary.iml" filepath="$PROJECT_DIR$/mylibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stickersengine/stickersengine.iml" filepath="$PROJECT_DIR$/stickersengine/stickersengine.iml" />
     </modules>
   </component>
 </project>
